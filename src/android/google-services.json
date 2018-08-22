@@ -1,39 +1,27 @@
 {
   "project_info": {
-    "project_number": "715411417267",
-    "firebase_url": "https://plan-connect.firebaseio.com",
-    "project_id": "plan-connect",
-    "storage_bucket": "plan-connect.appspot.com"
+    "project_number": "835317734024",
+    "firebase_url": "https://lhismymailbox.firebaseio.com",
+    "project_id": "lhismymailbox",
+    "storage_bucket": "lhismymailbox.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:715411417267:android:e71898d7ed31f00e",
+        "mobilesdk_app_id": "1:835317734024:android:ee089b9ba659fe2c",
         "android_client_info": {
-          "package_name": "com.planinternational.planconnect"
+          "package_name": "com.commontime.infinity.MyMailbox"
         }
       },
       "oauth_client": [
         {
-          "client_id": "715411417267-enccrqft7t99m4gmapm5pmsdog6p2h9j.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.planinternational.planconnect",
-            "certificate_hash": "3ee3fe095ef30163f4cd3c8d2208f76b577d9635"
-          }
-        },
-        {
-          "client_id": "715411417267-gk9kp94eus810dhchlc91r870e4r1o9e.apps.googleusercontent.com",
-          "client_type": 3
-        },
-        {
-          "client_id": "715411417267-gk9kp94eus810dhchlc91r870e4r1o9e.apps.googleusercontent.com",
+          "client_id": "835317734024-jb795a5q7oiq2i4gbh3l1s9va2e5jj00.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAsy4t_KUDwa-cqQys8J1lJqp0KufN1AO4"
+          "current_key": "AIzaSyCen_i4XPT_LkX675_pBzaAslXmVr24DDk"
         }
       ],
       "services": {
@@ -41,20 +29,8 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 2,
-          "other_platform_oauth_client": [
-            {
-              "client_id": "715411417267-gk9kp94eus810dhchlc91r870e4r1o9e.apps.googleusercontent.com",
-              "client_type": 3
-            },
-            {
-              "client_id": "715411417267-suqslrfoftpeqtm218e67ivsca2nm6ni.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.planinternational.planconnect"
-              }
-            }
-          ]
+          "status": 1,
+          "other_platform_oauth_client": []
         },
         "ads_service": {
           "status": 2
