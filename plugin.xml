@@ -24,13 +24,13 @@ xmlns:android="http://schemas.android.com/apk/res/android">
 			<!--UAT-->
 			<!--<string name="google_app_id">1:255484573457:android:c14650c34002399c</string>-->
 			<!--Production-->
-			<string name="google_app_id">1:715411417267:android:e71898d7ed31f00e</string>
+			<string name="google_app_id">1:835317734024:android:ee089b9ba659fe2c</string>
 		</config-file>
 		<config-file parent="/resources" target="res/values/strings.xml">
 			<!--UAT-->
 			<!--<string name="google_api_key">AIzaSyBgBR38RW9kykJOJUJWSu6JMYvSoBq5VOI</string>-->
 			<!--Production-->
-			<string name="google_api_key">AIzaSyAexiKYkST3_3Scwh_dpE_AY47BSfDn4r4</string>
+			<string name="google_api_key">AIzaSyBdjqfJyYLAwp8lf6K7ui6kGsMAPl6uQkk</string>
 		</config-file>
 		<config-file target="AndroidManifest.xml" parent="/*">
 				<uses-permission android:name="android.permission.INTERNET" />
